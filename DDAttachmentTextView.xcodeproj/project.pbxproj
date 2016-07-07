@@ -13,6 +13,26 @@
 		BE1115DF1D2D2DB8003242CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE1115DD1D2D2DB8003242CD /* Main.storyboard */; };
 		BE1115E11D2D2DB8003242CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE1115E01D2D2DB8003242CD /* Assets.xcassets */; };
 		BE1115E41D2D2DB8003242CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE1115E21D2D2DB8003242CD /* LaunchScreen.storyboard */; };
+		BE1115F41D2D317F003242CD /* DDAttachmentLayoutManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BE1115ED1D2D317F003242CD /* DDAttachmentLayoutManager.m */; };
+		BE1115F51D2D317F003242CD /* DDAttachmentReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = BE1115EF1D2D317F003242CD /* DDAttachmentReusableView.m */; };
+		BE1115F61D2D317F003242CD /* DDAttachmentTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = BE1115F11D2D317F003242CD /* DDAttachmentTextView.m */; };
+		BE1115F71D2D317F003242CD /* DDTextAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = BE1115F31D2D317F003242CD /* DDTextAttachment.m */; };
+		BE1115FC1D2D3345003242CD /* DDAttachmentObject.m in Sources */ = {isa = PBXBuildFile; fileRef = BE1115FB1D2D3345003242CD /* DDAttachmentObject.m */; };
+		BE11160C1D2D3B3C003242CD /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116001D2D3B3C003242CD /* 1.png */; };
+		BE11160D1D2D3B3C003242CD /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116011D2D3B3C003242CD /* 2.png */; };
+		BE11160E1D2D3B3C003242CD /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116021D2D3B3C003242CD /* 3.png */; };
+		BE11160F1D2D3B3C003242CD /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116031D2D3B3C003242CD /* 4.png */; };
+		BE1116101D2D3B3C003242CD /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116041D2D3B3C003242CD /* 5.png */; };
+		BE1116111D2D3B3C003242CD /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116051D2D3B3C003242CD /* 6.png */; };
+		BE1116121D2D3B3C003242CD /* a1.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116061D2D3B3C003242CD /* a1.png */; };
+		BE1116131D2D3B3C003242CD /* a2.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116071D2D3B3C003242CD /* a2.png */; };
+		BE1116141D2D3B3C003242CD /* a3.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116081D2D3B3C003242CD /* a3.png */; };
+		BE1116151D2D3B3C003242CD /* a4.png in Resources */ = {isa = PBXBuildFile; fileRef = BE1116091D2D3B3C003242CD /* a4.png */; };
+		BE1116161D2D3B3C003242CD /* a5.png in Resources */ = {isa = PBXBuildFile; fileRef = BE11160A1D2D3B3C003242CD /* a5.png */; };
+		BE1116171D2D3B3C003242CD /* a6.png in Resources */ = {isa = PBXBuildFile; fileRef = BE11160B1D2D3B3C003242CD /* a6.png */; };
+		BE1116191D2D3B4E003242CD /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = BE1116181D2D3B4E003242CD /* data.json */; };
+		BE11161C1D2D3DBE003242CD /* DDImageAttachmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = BE11161B1D2D3DBE003242CD /* DDImageAttachmentView.m */; };
+		BE11161F1D2D3E09003242CD /* DDUserAttachmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = BE11161E1D2D3E09003242CD /* DDUserAttachmentView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +46,33 @@
 		BE1115E01D2D2DB8003242CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE1115E31D2D2DB8003242CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE1115E51D2D2DB8003242CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE1115EC1D2D317F003242CD /* DDAttachmentLayoutManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDAttachmentLayoutManager.h; sourceTree = "<group>"; };
+		BE1115ED1D2D317F003242CD /* DDAttachmentLayoutManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDAttachmentLayoutManager.m; sourceTree = "<group>"; };
+		BE1115EE1D2D317F003242CD /* DDAttachmentReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDAttachmentReusableView.h; sourceTree = "<group>"; };
+		BE1115EF1D2D317F003242CD /* DDAttachmentReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDAttachmentReusableView.m; sourceTree = "<group>"; };
+		BE1115F01D2D317F003242CD /* DDAttachmentTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDAttachmentTextView.h; sourceTree = "<group>"; };
+		BE1115F11D2D317F003242CD /* DDAttachmentTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDAttachmentTextView.m; sourceTree = "<group>"; };
+		BE1115F21D2D317F003242CD /* DDTextAttachment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDTextAttachment.h; sourceTree = "<group>"; };
+		BE1115F31D2D317F003242CD /* DDTextAttachment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDTextAttachment.m; sourceTree = "<group>"; };
+		BE1115FA1D2D3345003242CD /* DDAttachmentObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDAttachmentObject.h; sourceTree = "<group>"; };
+		BE1115FB1D2D3345003242CD /* DDAttachmentObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDAttachmentObject.m; sourceTree = "<group>"; };
+		BE1116001D2D3B3C003242CD /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		BE1116011D2D3B3C003242CD /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		BE1116021D2D3B3C003242CD /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		BE1116031D2D3B3C003242CD /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		BE1116041D2D3B3C003242CD /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		BE1116051D2D3B3C003242CD /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		BE1116061D2D3B3C003242CD /* a1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a1.png; sourceTree = "<group>"; };
+		BE1116071D2D3B3C003242CD /* a2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a2.png; sourceTree = "<group>"; };
+		BE1116081D2D3B3C003242CD /* a3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a3.png; sourceTree = "<group>"; };
+		BE1116091D2D3B3C003242CD /* a4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a4.png; sourceTree = "<group>"; };
+		BE11160A1D2D3B3C003242CD /* a5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a5.png; sourceTree = "<group>"; };
+		BE11160B1D2D3B3C003242CD /* a6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a6.png; sourceTree = "<group>"; };
+		BE1116181D2D3B4E003242CD /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		BE11161A1D2D3DBE003242CD /* DDImageAttachmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDImageAttachmentView.h; sourceTree = "<group>"; };
+		BE11161B1D2D3DBE003242CD /* DDImageAttachmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDImageAttachmentView.m; sourceTree = "<group>"; };
+		BE11161D1D2D3E09003242CD /* DDUserAttachmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDUserAttachmentView.h; sourceTree = "<group>"; };
+		BE11161E1D2D3E09003242CD /* DDUserAttachmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDUserAttachmentView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +89,7 @@
 		BE1115C81D2D2DB8003242CD = {
 			isa = PBXGroup;
 			children = (
+				BE1115EB1D2D2DDC003242CD /* Class */,
 				BE1115D31D2D2DB8003242CD /* DDAttachmentTextView */,
 				BE1115D21D2D2DB8003242CD /* Products */,
 			);
@@ -58,6 +106,9 @@
 		BE1115D31D2D2DB8003242CD /* DDAttachmentTextView */ = {
 			isa = PBXGroup;
 			children = (
+				BE1115FF1D2D3B3C003242CD /* Resource */,
+				BE1115F81D2D3314003242CD /* Model */,
+				BE1115F91D2D3314003242CD /* View */,
 				BE1115D71D2D2DB8003242CD /* AppDelegate.h */,
 				BE1115D81D2D2DB8003242CD /* AppDelegate.m */,
 				BE1115DA1D2D2DB8003242CD /* ViewController.h */,
@@ -77,6 +128,61 @@
 				BE1115D51D2D2DB8003242CD /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BE1115EB1D2D2DDC003242CD /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				BE1115EC1D2D317F003242CD /* DDAttachmentLayoutManager.h */,
+				BE1115ED1D2D317F003242CD /* DDAttachmentLayoutManager.m */,
+				BE1115EE1D2D317F003242CD /* DDAttachmentReusableView.h */,
+				BE1115EF1D2D317F003242CD /* DDAttachmentReusableView.m */,
+				BE1115F01D2D317F003242CD /* DDAttachmentTextView.h */,
+				BE1115F11D2D317F003242CD /* DDAttachmentTextView.m */,
+				BE1115F21D2D317F003242CD /* DDTextAttachment.h */,
+				BE1115F31D2D317F003242CD /* DDTextAttachment.m */,
+			);
+			path = Class;
+			sourceTree = "<group>";
+		};
+		BE1115F81D2D3314003242CD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BE1115FA1D2D3345003242CD /* DDAttachmentObject.h */,
+				BE1115FB1D2D3345003242CD /* DDAttachmentObject.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BE1115F91D2D3314003242CD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BE11161A1D2D3DBE003242CD /* DDImageAttachmentView.h */,
+				BE11161B1D2D3DBE003242CD /* DDImageAttachmentView.m */,
+				BE11161D1D2D3E09003242CD /* DDUserAttachmentView.h */,
+				BE11161E1D2D3E09003242CD /* DDUserAttachmentView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BE1115FF1D2D3B3C003242CD /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				BE1116181D2D3B4E003242CD /* data.json */,
+				BE1116001D2D3B3C003242CD /* 1.png */,
+				BE1116011D2D3B3C003242CD /* 2.png */,
+				BE1116021D2D3B3C003242CD /* 3.png */,
+				BE1116031D2D3B3C003242CD /* 4.png */,
+				BE1116041D2D3B3C003242CD /* 5.png */,
+				BE1116051D2D3B3C003242CD /* 6.png */,
+				BE1116061D2D3B3C003242CD /* a1.png */,
+				BE1116071D2D3B3C003242CD /* a2.png */,
+				BE1116081D2D3B3C003242CD /* a3.png */,
+				BE1116091D2D3B3C003242CD /* a4.png */,
+				BE11160A1D2D3B3C003242CD /* a5.png */,
+				BE11160B1D2D3B3C003242CD /* a6.png */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +242,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE1116171D2D3B3C003242CD /* a6.png in Resources */,
+				BE1116161D2D3B3C003242CD /* a5.png in Resources */,
+				BE1116141D2D3B3C003242CD /* a3.png in Resources */,
+				BE1116131D2D3B3C003242CD /* a2.png in Resources */,
+				BE11160D1D2D3B3C003242CD /* 2.png in Resources */,
 				BE1115E41D2D2DB8003242CD /* LaunchScreen.storyboard in Resources */,
+				BE1116151D2D3B3C003242CD /* a4.png in Resources */,
 				BE1115E11D2D2DB8003242CD /* Assets.xcassets in Resources */,
 				BE1115DF1D2D2DB8003242CD /* Main.storyboard in Resources */,
+				BE1116111D2D3B3C003242CD /* 6.png in Resources */,
+				BE1116191D2D3B4E003242CD /* data.json in Resources */,
+				BE11160F1D2D3B3C003242CD /* 4.png in Resources */,
+				BE1116121D2D3B3C003242CD /* a1.png in Resources */,
+				BE1116101D2D3B3C003242CD /* 5.png in Resources */,
+				BE11160E1D2D3B3C003242CD /* 3.png in Resources */,
+				BE11160C1D2D3B3C003242CD /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,8 +269,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE1115DC1D2D2DB8003242CD /* ViewController.m in Sources */,
+				BE1115F61D2D317F003242CD /* DDAttachmentTextView.m in Sources */,
 				BE1115D91D2D2DB8003242CD /* AppDelegate.m in Sources */,
 				BE1115D61D2D2DB8003242CD /* main.m in Sources */,
+				BE1115F51D2D317F003242CD /* DDAttachmentReusableView.m in Sources */,
+				BE1115F41D2D317F003242CD /* DDAttachmentLayoutManager.m in Sources */,
+				BE1115F71D2D317F003242CD /* DDTextAttachment.m in Sources */,
+				BE1115FC1D2D3345003242CD /* DDAttachmentObject.m in Sources */,
+				BE11161F1D2D3E09003242CD /* DDUserAttachmentView.m in Sources */,
+				BE11161C1D2D3DBE003242CD /* DDImageAttachmentView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +426,7 @@
 				BE1115EA1D2D2DB8003242CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
